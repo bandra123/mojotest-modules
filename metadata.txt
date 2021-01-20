@@ -1,0 +1,6 @@
+srctype = micropython-lib
+type = package
+version = 0.1
+author = Rohit Sharma
+desc = Test module.
+long_desc = This is just a test module.
